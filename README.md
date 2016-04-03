@@ -1,5 +1,6 @@
 # powerorm
-A simple codeigniter orm library with no configurations required.
+
+A Simple to use codeigniter authentication system .
 
 
 # Install
@@ -22,4 +23,14 @@ Load the library like any other Codeigniter library.
 - Set the model to use for Authentication, on the `application/config/config.php`
        
        `$config['auth_model'] = 'User_model';`
+
      
+# Related CODEIGNITER Libraries.
+
+ - powerorm
+ 
+   A light weight easy to use CodeIgniter ORM. https://github.com/eddmash/powerorm
+  
+ - powerdispatch
+ 
+    An Event Dispatching mechanism for Codeigniter https://github.com/eddmash/powerdispatch

@@ -2,7 +2,7 @@
   "name": "eddmash/powerauth",
   "type": "CodeIgniter-library",
   "keywords": ["codeigniter", "authentication", "authorization", "auth"],
-  "description": "A very simple but effective codeignter orm",
+  "description": "A Simple to use codeigniter authentication system",
   "homepage": "https://github.com/eddmash/powerauth",
   "license": "MIT",
   "authors": [
